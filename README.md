@@ -150,10 +150,10 @@ After completing my first year, I felt the urge to **revisit and refine** this p
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mobile-shop-management.git
+git clone https://github.com/avishek-sarkar/Mobile-Shop-Inventory-Management-System.git
 
 # Navigate to project directory
-cd mobile-shop-management
+cd Mobile-Shop-Inventory-Management-System
 
 # Compile the program
 gcc project.c -o mobile_shop.exe
@@ -450,7 +450,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### ⭐ If you found this project interesting or learned something from it, please consider giving it a star!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/mobile-shop-management?style=social)](https://github.com/yourusername/mobile-shop-management/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/avishek-sarkar/Mobile-Shop-Inventory-Management-System?style=social)](https://github.com/avishek-sarkar/Mobile-Shop-Inventory-Management-System/stargazers)
 
 ---
 
@@ -466,9 +466,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If you have any questions or need help running the project:
 
-- 📧 Email: your.email@example.com
-- 💬 [Open an Issue](https://github.com/yourusername/mobile-shop-management/issues)
-- 📖 [Documentation](https://github.com/yourusername/mobile-shop-management/wiki)
+- 📧 Email: avishek1416@gmail.com
+- 💬 [Open an Issue](https://github.com/avishek-sarkar/Mobile-Shop-Inventory-Management-System/issues)
 
 ---
 
