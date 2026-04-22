@@ -95,8 +95,7 @@ void search_price();
 // Utility functions
 void safe_string_copy(const char *source, char *dest, size_t dest_size) {
     if (source == NULL || dest == NULL || dest_size == 0) return;
-    strncpy(dest, source, dest_size - 1);
-    dest[dest_size - 1] = '\0';
+    snprintf(dest, dest_size, "%s", source);
 }
 
 void safe_input(char *buffer, size_t size) {
@@ -832,7 +831,7 @@ void search() {
     int ch;
     
     while(1) {
-        printf("\n1.SAMSUNG.\n2.APPLE\n3.VIVO\n4.OPPO\n5.XIAOMI\n6.NOKIA\n7.LG\n8.SYMPHONY\n9.Others\n0.Main Menu\n\n");
+        printf("\n1.SAMSUNG\n2.APPLE\n3.VIVO\n4.OPPO\n5.XIAOMI\n6.NOKIA\n7.LG\n8.SYMPHONY\n9.Others\n0.Main Menu\n\n");
 
         printf("Enter Your Choice : ");
         scanf("%d",&ch);

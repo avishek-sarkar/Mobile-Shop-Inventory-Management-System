@@ -104,7 +104,7 @@ Enter Your Choice : 1
 ### Search Menu
 
 ```text
-1.SAMSUNG.
+1.SAMSUNG
 2.APPLE
 3.VIVO
 4.OPPO
@@ -141,6 +141,12 @@ ID       : 101
 MODEL    : Galaxy S21
 PRICE    : 65000
 QUANTITY : 8
+
+BRAND    : vivo
+ID       : 103
+MODEL    : V23
+PRICE    : 35000
+QUANTITY : 1
 ```
 
 ### Product Inventory Display
