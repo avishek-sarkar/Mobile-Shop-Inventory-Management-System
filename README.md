@@ -267,27 +267,13 @@ Action Required: Restock immediately!
 - Single-user flow only
 - Basic password handling
 
-## Future Enhancements
+## Possible Future Enhancements
 
 - Add database support
 - Build a GUI version
 - Add export options for reports
 - Improve authentication security
 - Add more advanced analytics
-
-## Contributing
-
-This is primarily an academic project, but suggestions are welcome.
-
-1. Fork the repository
-2. Create a branch
-3. Commit your changes
-4. Open a pull request
-
-## Support
-
-- Email: avishek1416@gmail.com
-- Issues: https://github.com/avishek-sarkar/Mobile-Shop-Inventory-Management-System/issues
 
 ## Outro
 
