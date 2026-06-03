@@ -1,10 +1,6 @@
 # Mobile Shop Inventory Management System
 
-A console-based mobile shop inventory management system written in C. It started as a first-year academic project and was later cleaned up to be more modular, readable, and reliable. In short: a classic C project with a few modern habits.
-
-## About Project
-
-This project manages mobile inventory, sales, income records, and low-stock alerts through a role-based console interface. It is designed for learning, practice, and everyday file-based data handling in C.
+A console-based mobile shop inventory management system written in C. It started as a first-year academic project and has been refined to be modular, readable, and reliable. The system manages mobile inventory, sales, income records, and low-stock alerts through a role-based console interface, making it a great resource for learning, practice, and everyday file-based data handling in C.
 
 ## Features
 
@@ -51,16 +47,6 @@ Mobile-Shop-Inventory-Management-System/
 |-- income.txt
 |-- temp.txt   (created during delete operations)
 ```
-
-## Code Structure
-
-- Utility functions: safe input, string copy, lowercase conversion, date handling
-- Validation helpers: positive and non-negative integer checks
-- Role panels: seller, cashier, and admin menus
-- Inventory functions: insert, update, delete, display
-- Search functions: brand search and price search
-- Sales functions: sell product, income status, sell status
-- Alert system: low-stock detection and warning display
 
 ## Usage
 
